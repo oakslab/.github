@@ -1,13 +1,26 @@
-# About OAK'S LAB
+# PRODUCT, DESIGN, AND ENGINEERING FOR BUISINESS INNOVATORS
+We are experts in building custom software with a focus on web and mobile applications. Since 2016, we’ve successfully developed 48 B2B and B2C software products across various industries, including financial services, real estate, healthcare, education, and logistics.
 
-OAK'S LAB is a startup technology partner that empowers innovators to improve life and the world. Founders partner with us to build their products and scale their teams. Since 2016, we have helped 34 startups reach a combined valuation of over $1.5B.
+# WHAT WE DO:
+Our cross-functional product development teams cover all the essential areas needed to build a successful product:
 
-The OAK’S LAB ecosystem is comprised of two separate business divisions:
+Product Management\
+UX/UI Design\
+Web Development\
+Mobile Development\
+AI Development\
+Quality Assurance
 
-## OAK’S DIGITAL
-Product, design, and engineering. For startups. OAK’S DIGITAL partners with early-stage startups to build their technology with dedicated product teams.
+# OUR DIFFERENTIATORS:
+We prioritize being a business partner first and a technology partner second.
 
-## OAK’S BOOST
-In-house expansion in Europe. For growth-stage startups. OAK’S BOOST partners with growth-stage startups to expand their in-house product teams in an offshore location.
+High business acumen\
+Prioritization of features based on ROI\
+Top-tier talent with a proven track record\
+All team members are fluent in English\
+Consistent and routine reporting\
+Your business retains ownership of developed IP\
+Ability to quickly add new roles as needed
 
-Together we shape the future, build from scratch, and work wherever with a clear vision, a community who cares, and a growth mindset.
+# PARTNER WITH US:
+We know that building software products is hard, and we're here to help at any stage of your product's lifecycle.
