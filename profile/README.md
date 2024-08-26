@@ -1,4 +1,4 @@
-# PRODUCT, DESIGN, AND ENGINEERING FOR BUISINESS INNOVATORS
+# PRODUCT, DESIGN, AND ENGINEERING FOR BUSINESS INNOVATORS
 We are experts in building custom software with a focus on web and mobile applications. Since 2016, we’ve successfully developed 48 B2B and B2C software products across various industries, including financial services, real estate, healthcare, education, and logistics.
 
 # WHAT WE DO:
