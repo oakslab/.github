@@ -1,3 +1,5 @@
+![Classification](https://img.shields.io/badge/classification-%20public-white)
+
 # About OAK'S LAB
 
 OAK'S LAB is a startup technology partner that empowers innovators to improve life and the world. Founders partner with us to build their products and scale their teams. Since 2016, we have helped 34 startups reach a combined valuation of over $1.5B.
